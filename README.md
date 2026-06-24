@@ -21,10 +21,10 @@ Tools Used:
 
 Files Included:
 
-  Sales_Performance_Dashboard.pbix
-  Sales_Performance_Dashboard_Report.pdf
-  sales_dataset.csv
-  dashboard_screenshot.png
+  Sales_Performance_Dashboard.pbix, 
+   Sales_Performance_Dashboard_Report.pdf, 
+   sales_dataset.csv,
+   dashboard_screenshot.png
   
 Dashboard Features:
 
