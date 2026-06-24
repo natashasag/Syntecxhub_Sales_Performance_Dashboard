@@ -37,6 +37,8 @@ Dashboard Features:
 > Bottom 10 Products
 > Interactive Filters
 
+Dashboard Preview:
+<img width="988" height="741" alt="dashboard_screenshot png" src="https://github.com/user-attachments/assets/f2abea0d-0116-4140-b2d3-3c99813380fa" />
 
 
 
